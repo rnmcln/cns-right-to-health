@@ -1,0 +1,5 @@
+n_0,median_0,q1_0,q3_0,n_1,median_1,q1_1,q3_1,mann_whitney_u,mann_whitney_p,indicator,column
+4,29.9,26.575,32.075,30,30.200000000000003,26.25,32.875,55.0,0.8099011971649611,Radiotherapy density meets IAEA threshold,radiotherapy_meets_iaea
+5,30.6,23.0,32.8,28,30.200000000000003,27.75,33.025,63.0,0.7441293308975763,Oral morphine available in public sector (2013),oral_morphine_available_2013
+13,31.2,30.3,32.9,23,28.7,25.4,32.5,188.0,0.21071548896454062,Right to health in constitution,right_to_health_in_constitution
+2,24.7,24.549999999999997,24.85,34,30.4,26.849999999999998,33.275,,,ICESCR ratified,icescr_ratified

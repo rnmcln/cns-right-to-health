@@ -1,0 +1,11 @@
+indicator,VIF,n_complete_cases
+oop_pct_che,4.90841115884315,56
+gov_pct_che,5.236717699718311,56
+che_pct_gdp,8.059137894099877,56
+che_pc_ppp_usd,23.74763170649491,56
+nurses_per_1000,5.330671526928286,56
+physicians_per_1000,2.643686219141913,56
+gdp_pc_ppp_usd,5.323929936013598,56
+life_expectancy,2.6600891952910057,56
+radiotherapy_units_per_million,6.445704575348877,56
+morphine_consumption_mg_per_capita,4.328426377665371,56

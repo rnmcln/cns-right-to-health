@@ -1,0 +1,61 @@
+outcome,n_outcome_available,n_flagged_less_reliable_excluded,n_primary_analysis,n_high_quality_subset,indicator,n_outcome_indicator_pair
+brain_all,57.0,14.0,43.0,27.0,,
+brain_all,,,,,Out-of-pocket expenditure (% CHE),40.0
+brain_all,,,,,Government health expenditure (% CHE),40.0
+brain_all,,,,,Current health expenditure (% GDP),40.0
+brain_all,,,,,Current health expenditure per capita (PPP USD),40.0
+brain_all,,,,,Nurses and midwives per 1000 population,40.0
+brain_all,,,,,Physicians per 1000 population,38.0
+brain_all,,,,,GDP per capita (PPP USD),41.0
+brain_all,,,,,Life expectancy at birth (years),41.0
+brain_all,,,,,Radiotherapy units per million population,40.0
+brain_all,,,,,Morphine consumption (mg/capita/year),43.0
+brain_all,,,,,Radiotherapy density meets IAEA threshold,40.0
+brain_all,,,,,Oral morphine available in public sector (2013),38.0
+brain_all,,,,,Right to health in constitution,43.0
+brain_all,,,,,ICESCR ratified,43.0
+glioblastoma,55.0,13.0,42.0,27.0,,
+glioblastoma,,,,,Out-of-pocket expenditure (% CHE),39.0
+glioblastoma,,,,,Government health expenditure (% CHE),39.0
+glioblastoma,,,,,Current health expenditure (% GDP),39.0
+glioblastoma,,,,,Current health expenditure per capita (PPP USD),39.0
+glioblastoma,,,,,Nurses and midwives per 1000 population,39.0
+glioblastoma,,,,,Physicians per 1000 population,37.0
+glioblastoma,,,,,GDP per capita (PPP USD),40.0
+glioblastoma,,,,,Life expectancy at birth (years),40.0
+glioblastoma,,,,,Radiotherapy units per million population,39.0
+glioblastoma,,,,,Morphine consumption (mg/capita/year),42.0
+glioblastoma,,,,,Radiotherapy density meets IAEA threshold,39.0
+glioblastoma,,,,,Oral morphine available in public sector (2013),37.0
+glioblastoma,,,,,Right to health in constitution,42.0
+glioblastoma,,,,,ICESCR ratified,42.0
+diffuse_anap,46.0,10.0,36.0,24.0,,
+diffuse_anap,,,,,Out-of-pocket expenditure (% CHE),34.0
+diffuse_anap,,,,,Government health expenditure (% CHE),34.0
+diffuse_anap,,,,,Current health expenditure (% GDP),34.0
+diffuse_anap,,,,,Current health expenditure per capita (PPP USD),34.0
+diffuse_anap,,,,,Nurses and midwives per 1000 population,34.0
+diffuse_anap,,,,,Physicians per 1000 population,32.0
+diffuse_anap,,,,,GDP per capita (PPP USD),35.0
+diffuse_anap,,,,,Life expectancy at birth (years),35.0
+diffuse_anap,,,,,Radiotherapy units per million population,34.0
+diffuse_anap,,,,,Morphine consumption (mg/capita/year),36.0
+diffuse_anap,,,,,Radiotherapy density meets IAEA threshold,34.0
+diffuse_anap,,,,,Oral morphine available in public sector (2013),33.0
+diffuse_anap,,,,,Right to health in constitution,36.0
+diffuse_anap,,,,,ICESCR ratified,36.0
+oligo,45.0,10.0,35.0,24.0,,
+oligo,,,,,Out-of-pocket expenditure (% CHE),33.0
+oligo,,,,,Government health expenditure (% CHE),33.0
+oligo,,,,,Current health expenditure (% GDP),33.0
+oligo,,,,,Current health expenditure per capita (PPP USD),33.0
+oligo,,,,,Nurses and midwives per 1000 population,33.0
+oligo,,,,,Physicians per 1000 population,32.0
+oligo,,,,,GDP per capita (PPP USD),34.0
+oligo,,,,,Life expectancy at birth (years),34.0
+oligo,,,,,Radiotherapy units per million population,33.0
+oligo,,,,,Morphine consumption (mg/capita/year),35.0
+oligo,,,,,Radiotherapy density meets IAEA threshold,33.0
+oligo,,,,,Oral morphine available in public sector (2013),32.0
+oligo,,,,,Right to health in constitution,35.0
+oligo,,,,,ICESCR ratified,35.0

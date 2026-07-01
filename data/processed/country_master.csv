@@ -1,0 +1,69 @@
+iso3,country,concord_label,who_region,wb_income_2014,brain_adult_5yr_pct,concord_flag_less_reliable,concord_flag_not_age_std
+ARG,Argentina,Argentina (five registries)‡,AMR,UMC,30.7,1,0
+AUS,Australia,Australia (eight registries)*,WPR,HIC,30.2,0,0
+AUT,Austria,Austria*,EUR,HIC,26.3,0,0
+BEL,Belgium,Belgium*,EUR,HIC,31.2,0,0
+BGR,Bulgaria,Bulgaria*,EUR,UMC,,0,0
+BRA,Brazil,Brazil (six registries),AMR,UMC,28.1,1,0
+CAN,Canada,Canada (nine registries),AMR,HIC,29.9,0,0
+CHE,Switzerland,Switzerland (ten registries)‡,EUR,HIC,29.7,0,0
+CHL,Chile,Chile (four registries),AMR,HIC,24.2,0,0
+CHN,China,China (21 registries),WPR,UMC,32.0,0,0
+COL,Colombia,Colombia (four registries),AMR,UMC,20.8,1,0
+CRI,Costa Rica,Costa Rica*,AMR,UMC,21.5,1,0
+CUB,Cuba,Cuba*,AMR,UMC,,0,0
+CYP,Cyprus,Cyprus*,EUR,HIC,25.2,1,0
+CZE,Czechia,Czech Republic*,EUR,HIC,21.4,0,0
+DEU,Germany,Germany (ten registries),EUR,HIC,29.6,0,0
+DNK,Denmark,Denmark*,EUR,HIC,38.9,0,0
+DZA,Algeria,Algeria (three registries),AFR,UMC,46.5,1,0
+ECU,Ecuador,Ecuador (five registries),AMR,UMC,25.8,0,0
+ESP,Spain,Spain (ten registries),EUR,HIC,27.4,0,0
+EST,Estonia,Estonia*,EUR,HIC,31.0,0,0
+FIN,Finland,Finland*,EUR,HIC,37.6,0,0
+FRA,France,France (23 registries)‡,EUR,HIC,27.2,0,0
+GBR,United Kingdom,UK (four registries)*,EUR,HIC,26.3,0,0
+GIB,Gibraltar,Gibraltar*,EUR,HIC,,0,0
+GLP,Guadeloupe,Guadeloupe*,AMR,HIC,9.6,1,1
+HKG,Hong Kong SAR,Hong Kong*,WPR,HIC,,0,0
+HRV,Croatia,Croatia*,EUR,HIC,42.2,0,0
+IND,India,India (two registries),SEAR,LMC,30.0,0,1
+IRL,Ireland,Ireland*,EUR,HIC,34.5,0,0
+IRN,Iran,Iran (Golestan),EMR,UMC,,0,0
+ISL,Iceland,Iceland*,EUR,HIC,29.2,0,0
+ISR,Israel,Israel*,EUR,HIC,32.8,0,0
+ITA,Italy,Italy (45 registries),EUR,HIC,28.8,0,0
+JOR,Jordan,Jordan*,EMR,UMC,32.9,1,0
+JPN,Japan,Japan (16 registries),WPR,HIC,46.3,1,0
+KOR,South Korea,Korea*,WPR,HIC,33.7,0,0
+KWT,Kuwait,Kuwait*,EMR,HIC,31.8,0,0
+LTU,Lithuania,Lithuania*,EUR,HIC,23.4,1,0
+LVA,Latvia,Latvia*,EUR,HIC,26.1,0,0
+MAR,Morocco,Morocco (Casablanca),EMR,LMC,,0,0
+MLI,Mali,Mali (Bamako),AFR,LIC,,0,0
+MLT,Malta,Malta*,EUR,HIC,28.0,0,0
+MNG,Mongolia,Mongolia*,WPR,LMC,,0,0
+MTQ,Martinique,Martinique*,AMR,HIC,35.8,0,0
+MUS,Mauritius,Mauritius*,AFR,UMC,43.7,0,1
+MYS,Malaysia,Malaysia (Penang),WPR,UMC,28.3,0,1
+NGA,Nigeria,Nigeria (Ibadan),AFR,LMC,54.9,1,1
+NLD,Netherlands,Netherlands*,EUR,HIC,28.2,0,0
+NOR,Norway,Norway*,EUR,HIC,36.8,0,0
+NZL,New Zealand,New Zealand*,WPR,HIC,,0,0
+PER,Peru,Peru (Lima),AMR,UMC,,0,0
+POL,Poland,Poland (16 registries)*,EUR,HIC,28.2,0,0
+PRI,Puerto Rico,Puerto Rico*,AMR,HIC,36.3,0,0
+PRT,Portugal,Portugal (four registries)*,EUR,HIC,22.7,0,0
+QAT,Qatar,Qatar*,EMR,HIC,36.1,1,1
+ROU,Romania,Romania (Cluj),EUR,UMC,34.0,1,0
+RUS,Russia,Russia (five registries),EUR,UMC,22.8,0,0
+SGP,Singapore,Singapore*,WPR,HIC,34.4,0,0
+SVK,Slovakia,Slovakia*,EUR,HIC,28.5,0,0
+SVN,Slovenia,Slovenia*,EUR,HIC,24.8,0,0
+SWE,Sweden,Sweden*,EUR,HIC,31.6,0,0
+THA,Thailand,Thailand (six registries),SEAR,UMC,14.7,0,0
+TUR,Turkiye,Turkey (nine registries),EUR,UMC,35.6,0,0
+TWN,Taiwan,Taiwan*,WPR,HIC,28.4,0,0
+URY,Uruguay,Uruguay*,AMR,HIC,,0,0
+USA,United States,USA (48 registries),AMR,HIC,36.5,0,0
+ZAF,South Africa,South Africa (Eastern Cape),AFR,UMC,51.6,1,1

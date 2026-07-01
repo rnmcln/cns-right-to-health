@@ -1,0 +1,69 @@
+iso3,country_concord_label,adult_brain_5yr_pct,less_reliable_flag,in_primary_analysis,in_high_quality_subset
+DZA,Algeria (three registries),46.5,yes,no_less_reliable,no
+ARG,Argentina (five registries)‡,30.7,yes,no_less_reliable,no
+AUS,Australia (eight registries)*,30.2,no,yes,yes
+AUT,Austria*,26.3,no,yes,yes
+BEL,Belgium*,31.2,no,yes,yes
+BRA,Brazil (six registries),28.1,yes,no_less_reliable,no
+BGR,Bulgaria*,,,no_outcome,
+CAN,Canada (nine registries),29.9,no,yes,no
+CHL,Chile (four registries),24.2,no,yes,no
+CHN,China (21 registries),32.0,no,yes,no
+COL,Colombia (four registries),20.8,yes,no_less_reliable,no
+CRI,Costa Rica*,21.5,yes,no_less_reliable,no
+HRV,Croatia*,42.2,no,yes,yes
+CUB,Cuba*,,,no_outcome,
+CYP,Cyprus*,25.2,yes,no_less_reliable,no
+CZE,Czech Republic*,21.4,no,yes,yes
+DNK,Denmark*,38.9,no,yes,yes
+ECU,Ecuador (five registries),25.8,no,yes,no
+EST,Estonia*,31.0,no,yes,yes
+FIN,Finland*,37.6,no,yes,yes
+FRA,France (23 registries)‡,27.2,no,yes,no
+DEU,Germany (ten registries),29.6,no,yes,no
+GIB,Gibraltar*,,,no_outcome,
+GLP,Guadeloupe*,9.6,yes,no_less_reliable,no
+HKG,Hong Kong*,,,no_outcome,
+ISL,Iceland*,29.2,no,yes,yes
+IND,India (two registries),30.0,no,yes,no
+IRN,Iran (Golestan),,,no_outcome,
+IRL,Ireland*,34.5,no,yes,yes
+ISR,Israel*,32.8,no,yes,yes
+ITA,Italy (45 registries),28.8,no,yes,no
+JPN,Japan (16 registries),46.3,yes,no_less_reliable,no
+JOR,Jordan*,32.9,yes,no_less_reliable,no
+KWT,Kuwait*,31.8,no,yes,yes
+LVA,Latvia*,26.1,no,yes,yes
+LTU,Lithuania*,23.4,yes,no_less_reliable,no
+MYS,Malaysia (Penang),28.3,no,yes,no
+MLI,Mali (Bamako),,,no_outcome,
+MLT,Malta*,28.0,no,yes,yes
+MTQ,Martinique*,35.8,no,yes,yes
+MUS,Mauritius*,43.7,no,yes,no
+MNG,Mongolia*,,,no_outcome,
+MAR,Morocco (Casablanca),,,no_outcome,
+NLD,Netherlands*,28.2,no,yes,yes
+NZL,New Zealand*,,,no_outcome,
+NGA,Nigeria (Ibadan),54.9,yes,no_less_reliable,no
+NOR,Norway*,36.8,no,yes,yes
+PER,Peru (Lima),,,no_outcome,
+POL,Poland (16 registries)*,28.2,no,yes,yes
+PRT,Portugal (four registries)*,22.7,no,yes,yes
+PRI,Puerto Rico*,36.3,no,yes,yes
+QAT,Qatar*,36.1,yes,no_less_reliable,no
+ROU,Romania (Cluj),34.0,yes,no_less_reliable,no
+RUS,Russia (five registries),22.8,no,yes,no
+SGP,Singapore*,34.4,no,yes,yes
+SVK,Slovakia*,28.5,no,yes,yes
+SVN,Slovenia*,24.8,no,yes,yes
+ZAF,South Africa (Eastern Cape),51.6,yes,no_less_reliable,no
+KOR,Korea*,33.7,no,yes,yes
+ESP,Spain (ten registries),27.4,no,yes,no
+SWE,Sweden*,31.6,no,yes,yes
+CHE,Switzerland (ten registries)‡,29.7,no,yes,no
+TWN,Taiwan*,28.4,no,yes,yes
+THA,Thailand (six registries),14.7,no,yes,no
+TUR,Turkey (nine registries),35.6,no,yes,no
+GBR,UK (four registries)*,26.3,no,yes,yes
+USA,USA (48 registries),36.5,no,yes,no
+URY,Uruguay*,,,no_outcome,
